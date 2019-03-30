@@ -1,0 +1,727 @@
+body {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 15px;
+  background: #f4f4f4;
+  height: auto;
+  width: auto;
+}
+
+li,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+hr {
+  margin-top: 900px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1210px;
+  max-height: 23.18px;
+  background: #f4f4f4;
+  margin: 0 auto;
+  margin-top: 59px;
+  align-items: center;
+}
+
+.header {
+  background: hsl(0, 0%, 96%) no-repeat center top;
+  padding: 57px 0;
+}
+.logo {
+  margin-left: 0px;
+  margin-top: 0px;
+  float: left;
+  height: 74px;
+  width: 23px;
+}
+.search {
+  float: left;
+  margin-left: 520px;
+  height: 20px;
+  width: 20px;
+}
+.menu {
+  margin-left: 520px;
+  height: 34px;
+  width: 14px;
+}
+.nav {
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  margin-left: 62px;
+}
+.wave {
+  margin-top: 352px;
+  margin-left: 124px;
+  height: 580px;
+  width: 1109px;
+}
+.text {
+  position: absolute;
+  width: 1110px;
+  height: 61px;
+  left: 132px;
+  top: 1058px;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #222222;
+  opacity: 0.7;
+}
+
+.h1 {
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 70px;
+  letter-spacing: -1px;
+  color: #222222;
+  position: absolute;
+  width: 539px;
+  height: 140px;
+  left: 126px;
+  top: 209px;
+}
+
+.Twitter {
+  width: 24px;
+  height: 25px;
+}
+
+.Linkedin {
+  width: 24px;
+  height: 25px;
+}
+
+.Google {
+  width: 24px;
+  height: 25px;
+}
+
+.Facebook {
+  width: 24px;
+  height: 25px;
+}
+
+.navul {
+  align-items: center;
+  margin: 0;
+  max-width: 120px;
+  max-height: 24px;
+  left: 1152px;
+  top: 361px;
+  list-style: none;
+  display: flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: -webkit-flex;
+  position: absolute;
+}
+
+.containerimg {
+  max-width: 1150px;
+  max-height: 460px;
+  background: #f4f4f4;
+  padding: 0;
+  margin-top: 170px;
+  margin-left: 135px;
+}
+.Placeholder2 {
+  position: absolute;
+  width: 350px;
+  height: 450px;
+  left: 130px;
+  top: 1254px;
+}
+
+.Placeholder1 {
+  position: absolute;
+  width: 350px;
+  height: 460px;
+  left: 509px;
+  top: 1254px;
+}
+.Placeholder {
+  position: absolute;
+  width: 350px;
+  height: 450px;
+  left: 890px;
+  top: 1254px;
+}
+
+.Play {
+  align-items: center;
+  position: absolute;
+  margin-left: 450px;
+  margin-top: 200px;
+}
+
+.text2 {
+  margin-top: 505px;
+  margin-left: 125px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  opacity: 0.7;
+  position: absolute;
+  width: 540px;
+  height: 87px;
+}
+
+.awwards {
+  position: absolute;
+  width: 1110px;
+  height: 375px;
+  left: 125px;
+  top: 1995px;
+  border-top: 1px solid rgb(160, 159, 159);
+}
+
+.btn_exp {
+  font-family: "Fira Sans";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.btn {
+  position: absolute;
+  display: block;
+  width: 160px;
+  height: 50px;
+  left: 1075px;
+  top: 1750px;
+  background-color: #ef8e70;
+}
+
+.awwardsnav {
+  display: flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: -webkit-flex;
+  position: absolute;
+}
+
+.awwardslogo {
+  position: absolute;
+  width: 89.92px;
+  height: 9.92px;
+  left: 0px;
+  top: 70px;
+}
+
+.site {
+  position: absolute;
+  width: 190px;
+  height: 32px;
+  left: 477px;
+  top: 63px;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 32px;
+  color: #000000;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.single {
+  position: absolute;
+  width: 255px;
+  height: 27px;
+  left: 775px;
+  top: 70px;
+
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.year {
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: right;
+  position: absolute;
+  width: 65px;
+  height: 28px;
+  left: 1050px;
+  top: 66px;
+}
+
+.singledown {
+  position: absolute;
+  width: 230px;
+  height: 84px;
+  left: 775px;
+  margin-top: 115px;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #222222;
+  opacity: 0.7;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.awwardsnav2 {
+  display: flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: -webkit-flex;
+  position: absolute;
+  margin-top: 195px;
+}
+
+.BNavigation {
+  position: absolute;
+  width: 190px;
+  height: 32px;
+  left: 475px;
+  top: 63px;
+  position: absolute;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 32px;
+}
+
+.midleton {
+  position: absolute;
+  width: 230px;
+  height: 84px;
+  left: 775px;
+  margin-top: 312px;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #222222;
+  opacity: 0.7;
+}
+
+.whiteblck {
+  position: absolute;
+  width: 1360px;
+  height: 480px;
+  left: 0px;
+  top: 2492px;
+  background: #fafafa;
+  margin-right: 0;
+}
+
+.clients {
+  position: absolute;
+  width: 445px;
+  height: 56px;
+  left: 113px;
+  top: 70px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: -1px;
+  color: #222222;
+}
+
+.work {
+  position: absolute;
+  width: 253px;
+  height: 19px;
+  left: 790px;
+  top: 97px;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+}
+
+.our {
+  position: absolute;
+  width: 445px;
+  height: 56px;
+  margin-top: 137px;
+  left: 790px;
+  opacity: 0.7;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #222222;
+}
+
+.brands {
+  display: flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: -webkit-flex;
+  position: absolute;
+  margin-top: 278px;
+}
+
+.xiaomi {
+  position: absolute;
+  width: 80px;
+  height: 62.86px;
+  left: 125px;
+  top: 63px;
+  opacity: 0.3;
+}
+
+.tinder {
+  position: absolute;
+  width: 52px;
+  height: 69.03px;
+  left: 390px;
+  top: 60px;
+  opacity: 0.3;
+}
+
+.apple {
+  position: absolute;
+  width: 56px;
+  height: 71px;
+  left: 652px;
+  top: 60px;
+  opacity: 0.3;
+}
+
+.nike {
+  position: absolute;
+  width: 145.45px;
+  height: 20px;
+  left: 885px;
+  top: 76px;
+}
+
+.amd {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 1173px;
+  top: 65px;
+  opacity: 0.3;
+}
+
+.black {
+  width: 1363px;
+  height: 270px;
+  background-color: #515151;
+  margin-top: 1734px;
+  position: absolute;
+}
+
+.log,
+.logo2 {
+  position: absolute;
+  width: 74.31px;
+  height: 23.18px;
+  left: 125px;
+  top: 65px;
+}
+
+.navdown {
+  display: flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: -webkit-flex;
+  width: 545;
+  height: 27;
+  margin: 0;
+}
+
+.travel1 {
+  position: absolute;
+  left: 23.01%;
+  right: 73.38%;
+  top: 24.69%;
+  bottom: 4.44%;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.explore1 {
+  position: absolute;
+  left: 30.96%;
+  right: 64.56%;
+  top: 24.69%;
+  bottom: 4.44%;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.works1 {
+  position: absolute;
+  left: 39.78%;
+  right: 64.56%;
+  top: 24.69%;
+  bottom: 4.44%;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.about1 {
+  position: absolute;
+  left: 47.72%;
+  right: 46.84%;
+  top: 24.69%;
+  bottom: 4.44%;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.contacts1 {
+  position: absolute;
+  left: 57.5%;
+  right: 64.56%;
+  top: 24.69%;
+  bottom: 4.44%;
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.form {
+  position: absolute;
+  width: 285px;
+  height: 40px;
+  left: 948px;
+  top: 31px;
+}
+
+.inputtext {
+position: absolute;
+left: 11.76%;
+right: 15.88%;
+top: 22.5%;
+bottom: 20%;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+}
+
+.navigationdown {
+position: absolute;
+margin-left: 9%;
+top: 60%;
+bottom: 1.08%;
+width: 1108px;
+height: 66px;
+border-top: 1px solid rgb(160, 159, 159);
+}
+
+.navsoc {
+    width: 375px;
+    height: 83px;
+}
+
+.Terms {
+    position: absolute;
+    margin-left: 0%;
+    top: 80%;
+    bottom: 1.08%;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.4;
+}
+
+.Promo {
+    position: absolute;
+    margin-left: 10%;
+    top: 80%;
+    bottom: 1.08%;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.4;
+}
+
+.Dowload {
+    position: absolute;
+    margin-left: 20%;
+    top: 80%;
+    bottom: 1.08%;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.4;
+}
+
+.News {
+    position: absolute;
+    margin-left: 30%;
+    top: 80%;
+    bottom: 1.08%;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.4;
+
+}
+
+.socdown {
+    margin-top: 217px;
+    margin-left: 83%;
+    max-width: 120px;
+    max-height: 24px;
+    align-items: center;
+    display: flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: -webkit-flex;
+    opacity: 0.4;
+}
+
+.Twitter2 {
+    width: 24px;
+    height: 24px;
+    margin-left: 0px;
+  }
+  
+  .Linkedin2 {
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;;
+  }
+  
+  .Google2 {
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+  }
+  
+  .Facebook2 {
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+  }
+
+  .adress {
+    position: absolute;
+    width: 180px;
+    height: 90px;
+    left: 945px;
+    top: 48.7px;
+  }
+
+  .email {
+    width: 165px;
+    height: 37px;
+    left: 945px;
+    background-color:  #F5F4FF;
+    top: 40px;
+    border : none;
+  }
+
+  ::placeholder {
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #222222;
+    opacity: 0.5;
+    text-indent: 20px;
+  }
+  
+  .btnsend {
+  position: absolute;
+  display: block;
+  width: 100px;
+  height: 40px;
+  left: 1131px;
+  top: 63px;
+  background-color: #C6B393;;
+  }
+
+  .send {
+    font-family: "Fira Sans";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-top: 10%;
+  }
